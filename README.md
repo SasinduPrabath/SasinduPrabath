@@ -18,9 +18,9 @@ Constantly learning modern development practices to build reliable, value-driven
 <p align="center"><sub>Let’s connect, collaborate, and explore ideas in tech.</sub>
 
 <p align="center">
+<a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 <a href="https://www.linkedin.com/in/sasindu-prabath-50580621b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 <a href="https://sasindu-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel"></a>
-<a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
