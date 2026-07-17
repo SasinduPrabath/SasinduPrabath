@@ -27,7 +27,7 @@ Constantly learning modern development practices to build reliable, value-driven
 
 <h2 align="center" style="font-weight:600;">Languages & Tools</h2>
 <p align="center">
-  <a href="https://github.com/MaleenRodrigo">
+  <a href="https://github.com/sasinduprabath">
     <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode,idea,figma,linux,ubuntu" />
   </a>
