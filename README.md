@@ -19,8 +19,6 @@ Constantly learning modern development practices to build reliable, value-driven
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sasindu-prabath-50580621b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://www.facebook.com/sasinduprabath/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50"/></a>
-<a href="https://www.instagram.com/sasinduprabath/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 <a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
