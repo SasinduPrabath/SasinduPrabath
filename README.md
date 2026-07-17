@@ -19,7 +19,7 @@ Constantly learning modern development practices to build reliable, value-driven
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sasindu-prabath-50580621b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://sasindu-portfolio.vercel.app/" target="_blank"> <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="m12 1.608 12 20.784H0Z"/></svg> height="50"/></a> 
+<a href="https://sasindu-portfolio.vercel.app/" target="_blank"> <img src="https://shields.io" alt="Vercel"> height="50"/></a> 
 <a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
