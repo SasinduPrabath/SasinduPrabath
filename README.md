@@ -24,7 +24,8 @@ Core Competencies:
 
 </div>
 
-
+<br>
+<br>
 
 <p align="center">
 <a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
