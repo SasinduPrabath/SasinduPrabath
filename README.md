@@ -24,7 +24,7 @@ Core Competencies:
 
 </div>
 
-<p align="center"><sub>Let’s connect, collaborate, and explore ideas in tech.</sub>
+
 
 <p align="center">
 <a href="mailto:sasinduprabath97@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
