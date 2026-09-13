@@ -16,11 +16,11 @@ IT Specialist and HND candidate in Networking & Cybersecurity with hands-on expe
 
 Core Competencies:
 
-<b>Network Operations & Security</b>
-<b>L1/L2 Technical Support</b> 
-<b>QA Testing & Bug Retesting</b>
-<b>End-User Documentation</b>
-<b>Website & Digital Media Management</b>
+<b>Network Operations & Security,</b>
+<b>L1/L2 Technical Support,</b> 
+<b>QA Testing & Bug Retesting,</b>
+<b>End-User Documentation,</b>
+<b>Website & Digital Media Management,</b>
 
 </div>
 
