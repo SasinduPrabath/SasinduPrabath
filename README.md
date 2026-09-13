@@ -10,11 +10,17 @@
 </div>
 <div align="center">
   
-## 👨‍💻 About Me
+<b>Aspiring Network Administrator & Cybersecurity Enthusiast | HND Student at ICBT Campus</b>
 
-- 🛡️ **Focus Area:** Networking & Cybersecurity with a strong passion for backend development and scalable system design.
-- ⚙️ **Engineering Philosophy:** Focused on clean, maintainable code and practical, efficient problem-solving.
-- 🚀 **Continuous Growth:** Constantly adopting modern development practices to deliver secure, reliable, and value-driven systems.
+IT Specialist and HND candidate in Networking & Cybersecurity with hands-on experience in technical support, QA testing, and web maintenance. Passionate about designing, securing, and optimizing network infrastructure. Skilled in troubleshooting, bug isolation, system retesting, and authoring clear end-user documentation. Proven ability to manage digital platforms and company web operations while pursuing a career path toward Network Engineering and Administration. Seeking opportunities to apply my technical background and gain real-world experience in network operations.
+
+Core Competencies:
+
+<b>Network Operations & Security</b>
+<b>L1/L2 Technical Support</b> 
+<b>QA Testing & Bug Retesting</b>
+<b>End-User Documentation</b>
+<b>Website & Digital Media Management</b>
 
 </div>
 
