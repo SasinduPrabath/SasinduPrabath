@@ -2,14 +2,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Software+Engineering+Undergraduate">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Software+Engineering+Undergraduate">
-    <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Software+Engineering+Undergraduate">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Networking+Cybersecurity+Undergraduate">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Networking+Cybersecurity+Undergraduate">
+    <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=0D0D0D&background=FFFFFF00&center=true&vCenter=true&width=820&height=70&duration=2500&lines=Sasindu+Prabath;Networking+Cybersecurity+Undergraduate">
   </picture>
 </div>
 <div align="center">
   
-Software Engineering undergraduate with a strong interest in backend development and scalable system design.  
+Networking and Cybersecurity with a strong interest in backend development and scalable system design.  
 Passionate about writing clean, maintainable code and solving problems through practical engineering approaches.  
 Constantly learning modern development practices to build reliable, value-driven digital solutions.  
 
