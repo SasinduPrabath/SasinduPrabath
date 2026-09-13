@@ -10,9 +10,11 @@
 </div>
 <div align="center">
   
-Networking and Cybersecurity with a strong interest in backend development and scalable system design.  
-Passionate about writing clean, maintainable code and solving problems through practical engineering approaches.  
-Constantly learning modern development practices to build reliable, value-driven digital solutions.  
+## 👨‍💻 About Me
+
+- 🛡️ **Focus Area:** Networking & Cybersecurity with a strong passion for backend development and scalable system design.
+- ⚙️ **Engineering Philosophy:** Focused on clean, maintainable code and practical, efficient problem-solving.
+- 🚀 **Continuous Growth:** Constantly adopting modern development practices to deliver secure, reliable, and value-driven systems.
 
 </div>
 
